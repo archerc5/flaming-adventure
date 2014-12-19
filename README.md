@@ -1,4 +1,4 @@
-flaming-adventure
+Flaming-Adventures
 =================
 
-Thoughts on computational training at HPC centers
+Developing computational training at HPC centers
